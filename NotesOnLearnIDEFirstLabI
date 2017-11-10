@@ -36,7 +36,7 @@ IMPORTANT -- learn open
                   CONTRIBUTING.md  Gemfile       LICENSE.md                README.md
                   edit-me.txt      Gemfile.lock  NotesOnLearnIDEFirstLabI  spec
 
-              --> pwd (as in the nix systems) 
+              --> pwd (as in the nix systems)
                     shows the current directory and means "present working directory"
                     // ♥ pwd
                     /home/meanFlatPrep/first-ide-lab-abp-11-17
@@ -46,3 +46,5 @@ IMPORTANT -- learn open
                   directory, but another one created by atom:
                   (from the file manager)
                   /home/meanpt/.atom/.learn-ide/home/meanFlatPrep/first-ide-lab-abp-11-17
+
+                  
