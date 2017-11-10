@@ -26,7 +26,7 @@ IMPORTANT -- learn open
                 // ♥ learn submit
                 Adding changes...
                 Committing changes...
-                Pushing changes to GitHub...  
+                Pushing changes to GitHub...
                 Submitt/g lesson...
                 Done.
 
@@ -36,5 +36,10 @@ IMPORTANT -- learn open
                   CONTRIBUTING.md  Gemfile       LICENSE.md                README.md
                   edit-me.txt      Gemfile.lock  NotesOnLearnIDEFirstLabI  spec
 
-              --> pwd (as in the nix systems, shows the current directory
-                      and means "present working directory"
+              --> pwd (as in the nix systems)
+                    shows the current directory and means "present working directory"
+                    // ♥ pwd
+                    /home/meanFlatPrep/first-ide-lab-abp-11-17
+                    [14:36:10] (master) first-ide-lab-abp-11-17
+                    
+                      
