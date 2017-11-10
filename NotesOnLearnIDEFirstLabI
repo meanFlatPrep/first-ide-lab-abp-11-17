@@ -17,3 +17,15 @@ IMPORTANT -- learn open
                 you made an edit to edit-me.txt
               Finished in 0.00588 seconds (files took 0.16828 seconds to load)
               1 example, 0 failures
+
+          --> learn submit
+                save the changes to the local repository (adding and committing) and and
+                pushes them to GitHub
+
+                terminal response:
+                // ♥ learn submit
+                Adding changes...
+                Committing changes...
+                Pushing changes to GitHub...
+                Submitting lesson...
+                Done.
