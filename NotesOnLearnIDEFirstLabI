@@ -1,0 +1,19 @@
+IMPORTANT -- learn open
+
+  As the button Open in IDE isn't working in my browsers and OS (Chrome, Firefox, Chromium)u,
+    Lubuntu 16.04, you (me) must run
+      learn Open
+    to open each lab.
+
+
+
+        Other commands:
+        --> learn
+              reports on some only mandatory activities as listed in the README file;
+              didn't report the creation and deletion of files;
+
+              terminal response:
+              First Lab:
+                you made an edit to edit-me.txt
+              Finished in 0.00588 seconds (files took 0.16828 seconds to load)
+              1 example, 0 failures

@@ -1,0 +1,14 @@
+Hello World (oh, no, not again);
+Hello People of the World (oh, well, not good, but sounds less repetitive)
+
+good!
+
+Patterns
+  project name = upper folder name in the tree
+  subfolders and sibling files
+  Saving files
+  creating new files
+    note: the context menu helps to locate it
+    ????: path for the new file? is it my local file tree?
+          It's ok, just enter a name and press enter. by default
+            the ide will assume the current project path.
